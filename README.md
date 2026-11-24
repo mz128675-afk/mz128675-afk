@@ -2,11 +2,12 @@
 
 🎓 BSCS Student | 💻 Aspiring Web Developer
 
-I'm a Computer Science student on the road to becoming a web developer — currently focused on HTML, CSS, JavaScript, React, Bootstrap, Python, and databases (SQL).
+I'm a Computer Science student on the road to becoming a web developer — currently focused on HTML, CSS, JavaScript, React, Bootstrap, Python, PHP, and databases (MySQL/SQL).
 
 ### 🛠️ Skills
-- Languages: HTML5, CSS3, JavaScript, SQL, Python
+- Languages: HTML5, CSS3, JavaScript, SQL, Python, PHP
 - Frameworks: Bootstrap, React.js
+- Databases: MySQL
 - Tools: Git, GitHub
 
 ### 🌱 Currently Learning
