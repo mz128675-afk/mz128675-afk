@@ -4,6 +4,9 @@
 
 I'm a Computer Science student on the road to becoming a web developer — currently focused on HTML, CSS, JavaScript, React, Bootstrap, Python, PHP, and databases (MySQL/SQL).
 
+### 🎓 Education
+- Full Stack Web Development — RisingEdge Institute (completed)
+
 ### 🛠️ Skills
 - Languages: HTML5, CSS3, JavaScript, SQL, Python, PHP
 - Frameworks: Bootstrap, React.js
